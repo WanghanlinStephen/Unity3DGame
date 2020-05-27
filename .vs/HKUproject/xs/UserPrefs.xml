@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{9BD54F73-BB92-151F-C10D-AC14293761AF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Dialogueststem.cs">
+    <Files>
+      <File FileName="Assets/Script/PlayerController.cs" Line="95" Column="10" />
+      <File FileName="Assets/Script/GameManager.cs" />
+      <File FileName="Assets/Script/NPC.cs" />
+      <File FileName="Assets/Script/Dialogueststem.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HKUproject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="Dialogueststem.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="202d0a6d-0506-48cc-9644-2c6c3709640d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

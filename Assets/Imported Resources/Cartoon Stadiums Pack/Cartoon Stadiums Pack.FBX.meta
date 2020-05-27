@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 8c706eee523a891409559c3ee3f2f8f7
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Basket
+    100002: Basket 2
+    100004: Basket Ball
+    100006: Basketball ground
+    100008: Bench
+    100010: Bench 1
+    100012: Bench 10
+    100014: Bench 11
+    100016: Bench 2
+    100018: Bench 3
+    100020: Bench 4
+    100022: Bench 5
+    100024: Bench 6
+    100026: Bench 7
+    100028: Bench 8
+    100030: Bench 9
+    100032: //RootNode
+    100034: Foot Ball
+    100036: Football Ground
+    100038: Ground
+    100040: Ground 2
+    100042: Ground 3
+    100044: Ground 4
+    100046: Monitor
+    100048: Pillar
+    100050: Pillar 1
+    100052: Pillar 10
+    100054: Pillar 11
+    100056: Pillar 12
+    100058: Pillar 13
+    100060: Pillar 14
+    100062: Pillar 15
+    100064: Pillar 2
+    100066: Pillar 3
+    100068: Pillar 4
+    100070: Pillar 5
+    100072: Pillar 6
+    100074: Pillar 7
+    100076: Pillar 8
+    100078: Pillar 9
+    100080: Soccergoal
+    100082: Soccergoal 1
+    100084: Stadium Seating Bench
+    100086: Stadium Seating Bench 1
+    100088: Stadium Seats
+    100090: Stadium Seats 1
+    100092: Stadium Seats 10
+    100094: Stadium Seats 11
+    100096: Stadium Seats 12
+    100098: Stadium Seats 13
+    100100: Stadium Seats 14
+    100102: Stadium Seats 15
+    100104: Stadium Seats 2
+    100106: Stadium Seats 3
+    100108: Stadium Seats 4
+    100110: Stadium Seats 5
+    100112: Stadium Seats 6
+    100114: Stadium Seats 7
+    100116: Stadium Seats 8
+    100118: Stadium Seats 9
+    100120: Tennis Ball
+    100122: Tennis Ground
+    100124: Tennis Judge Chair
+    100126: Tennis Net Stand
+    100128: Triangle Decoration
+    100130: Triangle Decoration 1
+    100132: Triangle Decoration 2
+    100134: Triangle Decoration 3
+    100136: Volley Ball
+    100138: Volleyball Ground
+    100140: Volleyball Judge Chair
+    100142: Volleyball Net Stand
+    400000: Basket
+    400002: Basket 2
+    400004: Basket Ball
+    400006: Basketball ground
+    400008: Bench
+    400010: Bench 1
+    400012: Bench 10
+    400014: Bench 11
+    400016: Bench 2
+    400018: Bench 3
+    400020: Bench 4
+    400022: Bench 5
+    400024: Bench 6
+    400026: Bench 7
+    400028: Bench 8
+    400030: Bench 9
+    400032: //RootNode
+    400034: Foot Ball
+    400036: Football Ground
+    400038: Ground
+    400040: Ground 2
+    400042: Ground 3
+    400044: Ground 4
+    400046: Monitor
+    400048: Pillar
+    400050: Pillar 1
+    400052: Pillar 10
+    400054: Pillar 11
+    400056: Pillar 12
+    400058: Pillar 13
+    400060: Pillar 14
+    400062: Pillar 15
+    400064: Pillar 2
+    400066: Pillar 3
+    400068: Pillar 4
+    400070: Pillar 5
+    400072: Pillar 6
+    400074: Pillar 7
+    400076: Pillar 8
+    400078: Pillar 9
+    400080: Soccergoal
+    400082: Soccergoal 1
+    400084: Stadium Seating Bench
+    400086: Stadium Seating Bench 1
+    400088: Stadium Seats
+    400090: Stadium Seats 1
+    400092: Stadium Seats 10
+    400094: Stadium Seats 11
+    400096: Stadium Seats 12
+    400098: Stadium Seats 13
+    400100: Stadium Seats 14
+    400102: Stadium Seats 15
+    400104: Stadium Seats 2
+    400106: Stadium Seats 3
+    400108: Stadium Seats 4
+    400110: Stadium Seats 5
+    400112: Stadium Seats 6
+    400114: Stadium Seats 7
+    400116: Stadium Seats 8
+    400118: Stadium Seats 9
+    400120: Tennis Ball
+    400122: Tennis Ground
+    400124: Tennis Judge Chair
+    400126: Tennis Net Stand
+    400128: Triangle Decoration
+    400130: Triangle Decoration 1
+    400132: Triangle Decoration 2
+    400134: Triangle Decoration 3
+    400136: Volley Ball
+    400138: Volleyball Ground
+    400140: Volleyball Judge Chair
+    400142: Volleyball Net Stand
+    2300000: Basket
+    2300002: Basket 2
+    2300004: Basket Ball
+    2300006: Basketball ground
+    2300008: Bench
+    2300010: Bench 1
+    2300012: Bench 10
+    2300014: Bench 11
+    2300016: Bench 2
+    2300018: Bench 3
+    2300020: Bench 4
+    2300022: Bench 5
+    2300024: Bench 6
+    2300026: Bench 7
+    2300028: Bench 8
+    2300030: Bench 9
+    2300032: Foot Ball
+    2300034: Football Ground
+    2300036: Ground
+    2300038: Ground 2
+    2300040: Ground 3
+    2300042: Ground 4
+    2300044: Monitor
+    2300046: Pillar
+    2300048: Pillar 1
+    2300050: Pillar 10
+    2300052: Pillar 11
+    2300054: Pillar 12
+    2300056: Pillar 13
+    2300058: Pillar 14
+    2300060: Pillar 15
+    2300062: Pillar 2
+    2300064: Pillar 3
+    2300066: Pillar 4
+    2300068: Pillar 5
+    2300070: Pillar 6
+    2300072: Pillar 7
+    2300074: Pillar 8
+    2300076: Pillar 9
+    2300078: Soccergoal
+    2300080: Soccergoal 1
+    2300082: Stadium Seating Bench
+    2300084: Stadium Seating Bench 1
+    2300086: Stadium Seats
+    2300088: Stadium Seats 1
+    2300090: Stadium Seats 10
+    2300092: Stadium Seats 11
+    2300094: Stadium Seats 12
+    2300096: Stadium Seats 13
+    2300098: Stadium Seats 14
+    2300100: Stadium Seats 15
+    2300102: Stadium Seats 2
+    2300104: Stadium Seats 3
+    2300106: Stadium Seats 4
+    2300108: Stadium Seats 5
+    2300110: Stadium Seats 6
+    2300112: Stadium Seats 7
+    2300114: Stadium Seats 8
+    2300116: Stadium Seats 9
+    2300118: Tennis Ball
+    2300120: Tennis Ground
+    2300122: Tennis Judge Chair
+    2300124: Tennis Net Stand
+    2300126: Triangle Decoration
+    2300128: Triangle Decoration 1
+    2300130: Triangle Decoration 2
+    2300132: Triangle Decoration 3
+    2300134: Volley Ball
+    2300136: Volleyball Ground
+    2300138: Volleyball Judge Chair
+    2300140: Volleyball Net Stand
+    3300000: Basket
+    3300002: Basket 2
+    3300004: Basket Ball
+    3300006: Basketball ground
+    3300008: Bench
+    3300010: Bench 1
+    3300012: Bench 10
+    3300014: Bench 11
+    3300016: Bench 2
+    3300018: Bench 3
+    3300020: Bench 4
+    3300022: Bench 5
+    3300024: Bench 6
+    3300026: Bench 7
+    3300028: Bench 8
+    3300030: Bench 9
+    3300032: Foot Ball
+    3300034: Football Ground
+    3300036: Ground
+    3300038: Ground 2
+    3300040: Ground 3
+    3300042: Ground 4
+    3300044: Monitor
+    3300046: Pillar
+    3300048: Pillar 1
+    3300050: Pillar 10
+    3300052: Pillar 11
+    3300054: Pillar 12
+    3300056: Pillar 13
+    3300058: Pillar 14
+    3300060: Pillar 15
+    3300062: Pillar 2
+    3300064: Pillar 3
+    3300066: Pillar 4
+    3300068: Pillar 5
+    3300070: Pillar 6
+    3300072: Pillar 7
+    3300074: Pillar 8
+    3300076: Pillar 9
+    3300078: Soccergoal
+    3300080: Soccergoal 1
+    3300082: Stadium Seating Bench
+    3300084: Stadium Seating Bench 1
+    3300086: Stadium Seats
+    3300088: Stadium Seats 1
+    3300090: Stadium Seats 10
+    3300092: Stadium Seats 11
+    3300094: Stadium Seats 12
+    3300096: Stadium Seats 13
+    3300098: Stadium Seats 14
+    3300100: Stadium Seats 15
+    3300102: Stadium Seats 2
+    3300104: Stadium Seats 3
+    3300106: Stadium Seats 4
+    3300108: Stadium Seats 5
+    3300110: Stadium Seats 6
+    3300112: Stadium Seats 7
+    3300114: Stadium Seats 8
+    3300116: Stadium Seats 9
+    3300118: Tennis Ball
+    3300120: Tennis Ground
+    3300122: Tennis Judge Chair
+    3300124: Tennis Net Stand
+    3300126: Triangle Decoration
+    3300128: Triangle Decoration 1
+    3300130: Triangle Decoration 2
+    3300132: Triangle Decoration 3
+    3300134: Volley Ball
+    3300136: Volleyball Ground
+    3300138: Volleyball Judge Chair
+    3300140: Volleyball Net Stand
+    4300000: Monitor
+    4300002: Ground 3
+    4300004: Stadium Seats
+    4300006: Stadium Seats
+    4300008: Stadium Seats
+    4300010: Stadium Seats
+    4300012: Pillar
+    4300014: Triangle Decoration
+    4300016: Pillar
+    4300018: Pillar
+    4300020: Pillar
+    4300022: Football Ground
+    4300024: Ground 4
+    4300026: Pillar
+    4300028: Pillar
+    4300030: Pillar
+    4300032: Pillar
+    4300034: Stadium Seats
+    4300036: Stadium Seats
+    4300038: Tennis Ground
+    4300040: Triangle Decoration
+    4300042: Stadium Seats
+    4300044: Tennis Net Stand
+    4300046: Stadium Seats
+    4300048: Bench
+    4300050: Bench
+    4300052: Bench
+    4300054: Bench
+    4300056: Tennis Judge Chair
+    4300058: Pillar
+    4300060: Pillar
+    4300062: Pillar
+    4300064: Pillar
+    4300066: Stadium Seats
+    4300068: Stadium Seats
+    4300070: Stadium Seats
+    4300072: Basketball ground
+    4300074: Ground
+    4300076: Stadium Seats
+    4300078: Bench
+    4300080: Bench
+    4300082: Bench
+    4300084: Bench
+    4300086: Bench
+    4300088: Bench
+    4300090: Bench
+    4300092: Bench
+    4300094: Ground 2
+    4300096: Pillar
+    4300098: Pillar
+    4300100: Pillar
+    4300102: Pillar
+    4300104: Stadium Seats
+    4300106: Stadium Seats
+    4300108: Stadium Seats
+    4300110: Stadium Seats
+    4300112: Volleyball Ground
+    4300114: Triangle Decoration
+    4300116: Volleyball Net Stand
+    4300118: Volleyball Judge Chair
+    4300120: Basket Ball
+    4300122: Foot Ball
+    4300124: Tennis Ball
+    4300126: Volley Ball
+    4300128: Stadium Seating Bench
+    4300130: Soccergoal
+    4300132: Stadium Seating Bench
+    4300134: Soccergoal
+    4300136: Basket
+    4300138: Basket 2
+    4300140: Triangle Decoration
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Basket
+    second: {fileID: 2100000, guid: d9db6624cca63b84a9637d313799970c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Basket net
+    second: {fileID: 2100000, guid: d9db6624cca63b84a9637d313799970c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Basketball Ground
+    second: {fileID: 2100000, guid: 79a90729d929e2a49b59723d886f04ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Basketball Stadium
+    second: {fileID: 2100000, guid: 1a7838bfd382cd9468a92af76bbaa686, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Football Ground
+    second: {fileID: 2100000, guid: 22b73051336e8c943a730c2bcc019af9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Football Stadium
+    second: {fileID: 2100000, guid: df4088f0ee8cf9548849f2813f71e32d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soccergoal
+    second: {fileID: 2100000, guid: 793c5fbb58268c846bfca5655cf01b72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soccergoal Net
+    second: {fileID: 2100000, guid: 793c5fbb58268c846bfca5655cf01b72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tennis Ground
+    second: {fileID: 2100000, guid: 7c229e87e83a23b4780e834820aef9c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tennis Net
+    second: {fileID: 2100000, guid: aa9639c65db9a654db63e87f01790326, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tennis Net Stand
+    second: {fileID: 2100000, guid: aa9639c65db9a654db63e87f01790326, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tennis Stadium
+    second: {fileID: 2100000, guid: 05f3ff2d38a1b664c8eb680f8ce2c51a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Valleyball Stadium
+    second: {fileID: 2100000, guid: d4b3bfffb451d344fb029a69d99017e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Volleyball Ground
+    second: {fileID: 2100000, guid: be768684b71e5ea4ab9657f401b613a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Volleyball Net
+    second: {fileID: 2100000, guid: 5ebbd2d4aaa4fad48b87ee990205d767, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Volleyball Net Stand
+    second: {fileID: 2100000, guid: 5ebbd2d4aaa4fad48b87ee990205d767, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{40B6508A-3284-2F14-37E8-A71C3E3A4602}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/MenuP.cs">
+    <Files>
+      <File FileName="Assets/DyingMessage.cs" Line="14" Column="10" />
+      <File FileName="Assets/Script/PlayerController.cs" Line="210" Column="1" />
+      <File FileName="Assets/Script/Awake.cs" Line="18" Column="1" />
+      <File FileName="Assets/WinAwake.cs" Line="13" Column="1" />
+      <File FileName="Assets/Script/WinningMessage.cs" Line="7" Column="2" />
+      <File FileName="Assets/Imported Resources/UI/MainMenu.cs" Line="13" Column="5" />
+      <File FileName="Assets/MenuP.cs" Line="8" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="5.1" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ac4fc943-5f71-4840-b826-8134e8702f3f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
